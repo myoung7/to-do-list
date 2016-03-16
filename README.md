@@ -5,5 +5,8 @@ Features
 - Type and add items to-do in one tab view.
 - View list of to-do items in another tab view.
 
+Application is operational, but lacking some key GUI elements. 
+To run, import project into Xcode. Functions on iPhone and iPad.
+
 Possible New Features
 - Implement Core Data instead of using NSUserDefaults.
